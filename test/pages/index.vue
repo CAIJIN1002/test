@@ -1,5 +1,6 @@
 <template lang="pug">
   h1.test hello
+
 </template>
 
 <script>
